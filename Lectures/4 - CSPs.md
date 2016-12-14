@@ -32,3 +32,5 @@ Backtracking Search is the basic uninformed algorithm for solving CSPs
   - SA = red & WA = green is same as WA = green & SA = red
 - check that constraints are satisfied as you go
   - pass the goal tests as you go (traditionally, a search node may not pass a goal test but a later node will)
+
+## Filtering
